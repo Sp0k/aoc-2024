@@ -8,7 +8,7 @@ varying the languages I will use for the solutions.
 | Day |       Puzzle 1       |       Puzzle 2       | Language Used |
 |:---:|:--------------------:|:--------------------:|:-------------:|
 | 1   | Completed! (>24 hrs) | Completed! (>24 hrs) | C             |
-| 2   | N/A                  | N/A                  | N/A           |
+| 2   | Completed! (>24 hrs) | Completed! (>24 hrs) | C             |
 | 3   | N/A                  | N/A                  | N/A           |
 | 4   | N/A                  | N/A                  | N/A           |
 
