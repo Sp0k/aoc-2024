@@ -10,7 +10,7 @@ varying the languages I will use for the solutions.
 | 1   | Completed! (>24 hrs) | Completed! (>24 hrs) | C             |
 | 2   | Completed! (>24 hrs) | Completed! (>24 hrs) | C             |
 | 3   | Completed! (>24 hrs) | Completed! (>24 hrs) | Java          |
-| 4   | N/A                  | N/A                  | N/A           |
+| 4   | Completed! (>24 hrs) | Completed! (>24 hrs) | C, Java       |
 
 ## Languages used (So far)
 
