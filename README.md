@@ -13,8 +13,9 @@ varying the languages I will use for the solutions.
 | [4](https://github.com/Sp0k/aoc-2024/tree/main/day_04/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |    C, Java    |
 | [5](https://github.com/Sp0k/aoc-2024/tree/main/day_05/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |     Java      |
 | [6](https://github.com/Sp0k/aoc-2024/tree/main/day_06/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |       C       |
-| [7](https://github.com/Sp0k/aoc-2024/tree/main/day_07/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |      Ruby     |
-| [8](https://github.com/Sp0k/aoc-2024/tree/main/day_08/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |      Ruby     |
+| [7](https://github.com/Sp0k/aoc-2024/tree/main/day_07/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |     Ruby      |
+| [8](https://github.com/Sp0k/aoc-2024/tree/main/day_08/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |     Ruby      |
+| [9](https://github.com/Sp0k/aoc-2024/tree/main/day_09/src) | Completed! (>24 hrs) | Completed! (>24 hrs) |    Ruby, C    |
 
 ## Languages used (So far)
 
@@ -29,5 +30,5 @@ it is my exam period, I don't have time to do the puzzle as they come out
 currently, so I am not expecting or hoping for amazing ranking, but it is always
 fun to know your own ranking, lol.
 
-**Linux Society's Private Leaderboard**: 2/5 (execo) (43 pts)<br/>
+**Linux Society's Private Leaderboard**: 2/5 (execo) (51 pts)<br/>
 **Global Leaderboard**: ? (0 pts)
